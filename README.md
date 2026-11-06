@@ -1,5 +1,5 @@
-# Testingrepo
+# Portfolio Projects
 
-## Editing the file
+## COVID-19 portfolio & data cleaning portfolio project
 
-It's a markdown file in this repository.
+These files showcase my work of data cleaning and data visualization through SQL and Tableau.
