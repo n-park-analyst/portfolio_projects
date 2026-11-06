@@ -1,5 +1,5 @@
 # Portfolio Projects
 
-## COVID-19 portfolio & data cleaning portfolio project
+## COVID-19 & Nashville housing data cleaning projects
 
-These files showcase my work of data cleaning and data visualization through SQL and Tableau.
+COVID-19 projects showcase my work of data cleaning, aggregation, and visualization through SQL and Tableau. The Nashville housing project was focused on data cleaning work.
